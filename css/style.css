@@ -97,9 +97,11 @@
     }
 }
 
-.bg-hero {
+.bg-hero {    
     background: url(../img/hero.jpg) top right no-repeat;
     background-size: contain;
+    background-position: right center;
+
 }
 
 @media (max-width: 991.98px) {
