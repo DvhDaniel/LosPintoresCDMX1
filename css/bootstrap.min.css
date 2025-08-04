@@ -3130,11 +3130,21 @@ fieldset:disabled .btn {
 	background-color: #E77E21;
 	border-color: #E77E21
 }
+.btn-Wa {
+	color: #000;
+	background-color: #25D366 ;
+	border-color: #075E54 
+}
 
 .btn-secondary:hover {
 	color: #000;
 	background-color: #e68f43;
 	border-color: #E77E21
+}
+.btn-Wa.btn:hover {
+	color: #000;
+	background-color: #2bbd60 ;
+	border-color: #25D366 
 }
 
 .btn-check:focus+.btn-secondary,
@@ -3151,7 +3161,7 @@ fieldset:disabled .btn {
 .btn-secondary.active,
 .show>.btn-secondary.dropdown-toggle {
 	color: #000;
-	background-color: #a3d167;
+	background-color: #e68f43;
 	border-color: #E77E21
 }
 
