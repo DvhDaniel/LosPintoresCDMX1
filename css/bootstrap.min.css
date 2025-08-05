@@ -25,7 +25,7 @@
 	--bs-warning: #ffc107;
 	--bs-danger: #dc3545;
 	--bs-light: #F2F2F2;
-	--bs-dark: #99caea;
+	--bs-dark: #b7deff;
 	--bs-font-sans-serif: "Roboto", sans-serif;
 	--bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 	--bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0))
@@ -7317,7 +7317,7 @@ fieldset:disabled .btn {
 }
 
 .border-primary {
-	border-color: #99caea!important
+	border-color: #b7deff!important
 }
 
 .border-secondary {
@@ -8294,7 +8294,7 @@ fieldset:disabled .btn {
 }
 
 .text-primary {
-	color: #99caea!important
+	color: #b7deff!important
 }
 
 .text-secondary {
@@ -8350,7 +8350,7 @@ fieldset:disabled .btn {
 }
 
 .bg-primary {
-	background-color: #99caea!important
+	background-color: #b7deff!important
 }
 
 .bg-secondary {
