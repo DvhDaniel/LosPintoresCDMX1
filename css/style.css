@@ -118,27 +118,25 @@
 @media (min-width: 992px) {
     .about-start {
         position: relative;
-        margin-right: -90px;
         z-index: 1;
     }
 
     .about-end {
         position: relative;
-        margin-left: -90px;
         z-index: 1;
     }
 }
 
 .service-item,
 .contact-item {
-    background: url(../img/service.jpg) top center no-repeat;
+    background:  top center no-repeat;
     background-size: cover;
     transition: .5s;
 }
 
 .service-item:hover,
 .contact-item:hover {
-    background: url(../img/service.jpg) bottom center no-repeat;
+    background:bottom center no-repeat;
     background-size: cover;
 }
 
@@ -188,6 +186,37 @@
 .service-item:hover a.btn {
     bottom: 0;
     opacity: 1;
+}
+
+.brocha {
+    background: url(../img/brocha.jpg) bottom center no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+}
+.rodillo {
+    background: url(../img/rodillo.jpg) bottom center no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+}
+.gota {
+    background: url(../img/gota.jpg) bottom center no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+}
+.brocha:hover {
+    background: url(../img/brocha.jpg) bottom center no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+}
+.rodillo:hover {
+    background: url(../img/rodillo.jpg) bottom center no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
+}
+.gota:hover {
+    background: url(../img/gota.jpg) bottom center no-repeat;
+    background-size: 100% 100%;
+    background-size: cover;
 }
 
 .bg-quote {
